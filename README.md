@@ -1,6 +1,13 @@
+## Hi I'm Programmer, I think, people tell me that I am
+
 "I could actually TRY to make a quantum computer, that is if I felt like it, but I'm not CATCHing the desire to do so atm"
 
 Disclaimer: This statement has not been verified by the International Committee of People Who Actually Build Things.
+
+/* TODO: Build quantum computer
+         End world Hunger
+         Actually finish this Rea
+*/
 <!--
 **VidArg86/VidArg86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

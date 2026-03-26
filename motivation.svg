@@ -9,7 +9,7 @@
 
   <rect x="0.5" y="0.5" width="494" height="219" rx="4.5" fill="#1A1B27" stroke="#E4E2E2" stroke-opacity="0.1"/>
   
-  <text x="25" y="35" font-family="Segoe UI, sans-serif" font-weight="600" font-size="18" fill="url(#vaporwave-gradient)">&lt;VidArg86/&gt;'s Motivation Stats</text>
+  <text x="25" y="35" font-family="Segoe UI, sans-serif" font-weight="600" font-size="18" fill="url(#vaporwave-gradient)">&lt;VidArg86/&gt;'s Motivation Card</text>
   
   <g transform="translate(420, 110)">
     <circle r="40" stroke="#2c2c2c" stroke-width="6" fill="none" />

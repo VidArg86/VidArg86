@@ -30,8 +30,8 @@
   
 
   <g font-family="Segoe UI, sans-serif" font-size="14" fill="#FFFFFF">
-    <text x="50" y="75">Total Heigh::</text> 
-    <text x="280" y="75" font-weight="700" fill="#A9B1D6">Two Dwarves on a trench coat</text>
+    <text x="25" y="75">Total Heigh::</text> 
+    <text x="200" y="75" font-weight="700" fill="#A9B1D6">Two Dwarves on a trench coat</text>
     
     <text x="50" y="105">F1 GPs raced:</text> 
     <text x="280" y="105" font-weight="700" fill="#A9B1D6">0</text>

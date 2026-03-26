@@ -43,8 +43,7 @@
     <text x="125" y="165" font-weight="700" fill="#A9B1D6">1984</text>
     
     <text x="10" y="195">"Do you even code bro?":</text> 
-    <a href="./ICP-WABT%20report%20on%20ZED-36.pdf" target="_blank">
-      <text x="173" y="195" font-weight="700" fill="#A981D6">Currently investigated by the ICP-WABT about it</text>
-    </a>
+    <text x="173" y="195" font-weight="700" fill="#A981D6">Currently investigated by the ICP-WABT about it</text>
+
   </g>
 </svg>

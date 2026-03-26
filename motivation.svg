@@ -1,0 +1,30 @@
+<svg width="495" height="220" viewBox="0 0 495 220" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0.5" y="0.5" width="494" height="219" rx="4.5" fill="#1A1B27" stroke="#E4E2E2" stroke-opacity="0.1"/>
+  
+  <text x="25" y="35" font-family="Segoe UI, sans-serif" font-weight="600" font-size="18" fill="#EB1F6A">&lt;VidArg86/&gt;'s Motivation Stats</text>
+  
+  <g transform="translate(420, 110)">
+    <circle r="40" stroke="#2c2c2c" stroke-width="6" fill="none" />
+    <circle r="40" stroke="#EB1F6A" stroke-width="6" fill="none" stroke-dasharray="1, 251" stroke-linecap="round" transform="rotate(-90)" />
+    <text text-anchor="middle" dy="13" font-family="Segoe UI, sans-serif" font-weight="700" font-size="36" fill="#EB1F6A">F</text>
+  </g>
+
+  <g font-family="Segoe UI, sans-serif" font-size="14" fill="#FFFFFF">
+    <text x="25" y="75" fill="#70A5FD">★</text>
+    <text x="50" y="75">Total Stars Earned:</text> 
+    <text x="220" y="75" font-weight="700" fill="#A9B1D6">0</text>
+    
+    <text x="50" y="105">Quantum Computers Built:</text> 
+    <text x="220" y="105" font-weight="700" fill="#A9B1D6">0</text>
+    
+    <text x="50" y="135">Ski-net Security Risks:</text> 
+    <text x="220" y="135" font-weight="700" fill="#A9B1D6">1</text>
+    
+    <text x="50" y="165">Current Desire to Code:</text> 
+    <text x="220" y="165" font-weight="700" fill="#A9B1D6">3%</text>
+    
+    <text x="50" y="195">Desire to Build Quantum Computer:</text> 
+    <text x="280" y="195" font-weight="700" fill="#A9B1D6">0%</text>
+  </g>
+</svg>
+

@@ -6,6 +6,8 @@ Disclaimer: This statement has not been verified by the International Committee 
 
 ![Motivation Stats](./motivation.svg)
 
+## About Me
+![aboutMe](./aboutMe.svg)
 
 ## How to reach me
 You don't, but if you must:

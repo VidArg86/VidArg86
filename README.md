@@ -4,6 +4,8 @@
 
 Disclaimer: This statement has not been verified by the International Committee of People Who Actually Build Things.
 
+![Motivation Stats](./motivation.svg)
+
 ## TODO
 - Build quantum computers
 - Finish my Home-made Ski-net  

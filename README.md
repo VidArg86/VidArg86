@@ -1,4 +1,4 @@
-"I could actually TRY to make a quantum computer, if I fell like it, but I'm not CATCHING the desire to do so atm"
+"I could actually TRY to make a quantum computer, if I fell like it, but I'm not CATCHing the desire to do so atm"
 
 Disclaimer: This statement has not been verified by the International Committee of People Who Actually Build Things.
 <!--

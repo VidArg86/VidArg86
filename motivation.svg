@@ -10,7 +10,6 @@
   </g>
 
   <g font-family="Segoe UI, sans-serif" font-size="14" fill="#FFFFFF">
-    <text x="25" y="75" fill="#70A5FD">★</text>
     <text x="50" y="75">Total Stars Earned:</text> 
     <text x="220" y="75" font-weight="700" fill="#A9B1D6">0</text>
     

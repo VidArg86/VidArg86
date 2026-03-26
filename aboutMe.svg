@@ -31,18 +31,18 @@
 
   <g font-family="Segoe UI, sans-serif" font-size="14" fill="#FFFFFF">
     <text x="10" y="75">* Total Heigh:</text> 
-    <text x="150" y="75" font-weight="700" fill="#A9B1D6">Two Dwarves on a trench coat</text>
+    <text x="200" y="75" font-weight="700" fill="#A9B1D6">Two Dwarves on a trench coat</text>
     
     <text x="10" y="105">* F1 GPs raced:</text> 
-    <text x="150" y="105" font-weight="700" fill="#A9B1D6">0</text>
+    <text x="200" y="105" font-weight="700" fill="#A9B1D6">0</text>
     
-    <text x="10" y="135">API keys leaked:</text> 
-    <text x="150" y="135" font-weight="700" fill="#A9B1D6">1984</text>
+    <text x="10" y="135">* API keys leaked:</text> 
+    <text x="200" y="135" font-weight="700" fill="#A9B1D6">1984</text>
     
-    <text x="50" y="165">Amount of repos:</text> 
-    <text x="150" y="165" font-weight="700" fill="#A9B1D6">0</text>
+    <text x="10" y="165">*Amount of repos:</text> 
+    <text x="200" y="165" font-weight="700" fill="#A9B1D6">0</text>
     
     <text x="10" y="195">"Do you even code bro?":</text> 
-    <text x="150" y="195" font-weight="700" fill="#A9B1D6">Currently investigated by the  ICP-WABT about it</text>
+    <text x="200" y="195" font-weight="700" fill="#A9B1D6">Currently investigated by the  ICP-WABT about it</text>
   </g>
 </svg>

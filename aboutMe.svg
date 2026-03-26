@@ -26,7 +26,7 @@
   <rect x="1.5" y="1.5" width="497" height="217" rx="6" fill="#1A1B27" stroke="#D4AF37" stroke-width="2"/>
   <rect x="4.5" y="4.5" width="491" height="211" rx="4" fill="none" stroke="#D4AF37" stroke-width="2"/>
   
-  <text x="25" y="35" font-family="Segoe UI, sans-serif" font-weight="600" font-size="18" fill="url(#rgb-wave)">About Me/text>
+  <text x="25" y="35" font-family="Segoe UI, sans-serif" font-weight="600" font-size="18" fill="url(#rgb-wave)">About Me</text>
   
 
   <g font-family="Segoe UI, sans-serif" font-size="14" fill="#FFFFFF">

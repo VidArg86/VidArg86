@@ -23,15 +23,14 @@
     </linearGradient>
   </defs>
 
-  <rect x="1.5" y="1.5" width="497" height="217" rx="6" fill="#1A1B27" stroke="#D4AF37" stroke-width="2"/>
-  <rect x="4.5" y="4.5" width="491" height="211" rx="4" fill="none" stroke="#D4AF37" stroke-width="2"/>
+  <rect x="0" y="0" width="500" height="220" fill="#1A1B27"/>
   
   <text x="25" y="35" font-family="Segoe UI, sans-serif" font-weight="600" font-size="18" fill="url(#rgb-wave)">VidArg86's Motivation Card</text>
   
   <g transform="translate(420, 110)">
-    <circle r="40" stroke="#2c2c2c" stroke-width="6" fill="none" />
-    <circle r="40" stroke="url(#rgb-wave)" stroke-width="6" fill="none" stroke-dasharray="2.5, 248.5" stroke-linecap="round" transform="rotate(-90)" />
-    <text text-anchor="middle" x="0" y="18" font-family="Arial, sans-serif" font-weight="700" font-size="52" fill="#FF0000">F</text>
+    <text text-anchor="middle" x="0" y="-10" font-family="Arial, sans-serif" font-weight="700" font-size="52" fill="#7F00FF">F</text>
+    <rect x="-40" y="30" width="80" height="10" fill="#2c2c2c" rx="5" />
+    <rect x="-40" y="30" width="8" height="10" fill="#7F00FF" rx="5" />
   </g>
 
   <g font-family="Segoe UI, sans-serif" font-size="14" fill="#FFFFFF">

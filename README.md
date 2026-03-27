@@ -14,6 +14,7 @@ Disclaimer: This statement has not been verified by the International Committee 
 You don't, but if you must:
 - Go to the nearest public bathroom
 - Say my name three times while staring at your own reflection in the mirror (it must have a mirror. if Your reflection displays a 429 error in Neon Green, stop bothering me)
+- You will hear a faint ding, if that happens prepare for my arrival.
 - If nothing happens and you just look like a crazy person, either:
   - A: You didn't say my name loud enough.
   - B: You pronounced my name wrong.

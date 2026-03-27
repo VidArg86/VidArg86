@@ -26,7 +26,8 @@ You don't, but if you must:
   
 ## TODO
 - Build quantum computers
-- Finish my Home-made Ski-net  
+- Finish my Home-made Ski-net
+- Buy one lemon whose color hexadecimal value is EXACTLY #FFF700
 - End world Hunger
 - Actually finish this Rea
 <!--

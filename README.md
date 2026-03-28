@@ -19,7 +19,7 @@ You don't, but if you must:
   - A: You didn't say my name loud enough.
   - B: You pronounced my name wrong.
   - C: You actually didn't believe in the magic hard enough.
-  - D: You are on Santa's naughty list this year and his Policy Engine has blocked your connection for being on route to become the next Grinch, try again next year, and be a good boy.
+  - D: You are on Santa's naughty list this year and his Policy Engine has blocked your connection, try again next year, and be a good boy.
   - E: Cloudflare is down, provably because of LaLiga.
   - F: Mercury is retrograde again, the zodiac white chicks warned me about it, and I was a fool not to believe.
 - Disclaimer: if a giant 504 is displayed on the mirror, it means I'm unavailable

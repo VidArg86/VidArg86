@@ -14,11 +14,17 @@
       <path d="M0,50 C150,100 350,100 500,50 L500,220 C350,120 150,120 0,170 Z" fill="#3a3a4c" fill-opacity="0.2"/> 
       <rect width="100%" height="100%" fill="url(#rgb-wave)" fill-opacity="0.03" />
     </pattern>
+
+     <linearGradient id="vaporwave-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00FFFF;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#FFF700;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#BD00FF;stop-opacity:1" />
+    </linearGradient>
   </defs>
 
   <rect x="0" y="0" width="500" height="220" rx="8" fill="url(#waves-pattern)" stroke="#D4AF37" stroke-width="2"/>
   
-  <text x="25" y="35" font-family="Segoe UI, sans-serif" font-weight="600" font-size="18" fill="url(#rgb-wave)">About Me</text>
+  <text x="25" y="35" font-family="Segoe UI, sans-serif" font-weight="600" font-size="18" fill="url(#vaporwave-gradient)">About Me</text>
   
 
   <g font-family="Segoe UI, sans-serif" font-size="14" fill="#FFFFFF">

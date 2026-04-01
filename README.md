@@ -9,6 +9,7 @@ Disclaimer: This statement has not been verified by the International Committee 
 ## About Me
 ![aboutMe](./aboutMe.svg)
 
+People say I'm an overachiever.....I just learned windows doesn't fully turn off whith the PC...next time I pass a Home Depot I'm buying a hammer just in case I see the decepticon Emblem on this god forsaken machine.
 [.](./ICP-WABTReportOnZED-36.pdf)
 ## How to reach me
 You don't, but if you must:
@@ -30,6 +31,7 @@ You don't, but if you must:
 - Finish my Home-made Ski-net
 - Buy one lemon whose color hexadecimal value is EXACTLY #FFF700
 - End world Hunger
+- Buy a hammer in Home Depot
 - Actually finish this Rea
 <!--
 **VidArg86/VidArg86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

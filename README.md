@@ -1,4 +1,4 @@
-## Hi I'm Programmer, I think, people tell me that I am
+## Hee Ho!, I'm Programmer, I think, people tell me that I am
          
 "I could actually TRY to make a quantum computer, that is if I felt like it, but I'm not CATCHing the desire to do so atm"
 

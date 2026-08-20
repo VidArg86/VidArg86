@@ -1,6 +1,6 @@
 ## Hee Ho!, I'm Programmer, I think, people tell me that I am
          
-Spanish/English/Elven
+Spanish/English/Temerian
 
 ![Motivation Stats](./motivation.svg)
 

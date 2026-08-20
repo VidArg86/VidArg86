@@ -7,8 +7,7 @@ Spanish/English/Temerian
 ## About Me
 ![aboutMe](./aboutMe.svg)
 
-People say I'm an overachiever.....I just learned windows doesn't fully turn off whith the PC...next time I pass a Home Depot I'm buying a hammer just in case I see the decepticon Emblem on this god forsaken machine
-[.](./ICP-WABTReportOnZED-36.pdf)
+We hate Knife ears and Niflgaardians equally here
 ##
 :wq
 <!--

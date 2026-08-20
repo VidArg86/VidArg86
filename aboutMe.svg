@@ -34,8 +34,8 @@
     <text x="10" y="105">* F1 GPs raced:</text> 
     <text x="105" y="105" font-weight="700" fill="#A9B1D6">0</text>
     
-    <text x="10" y="135">*Amount of repos:</text> 
-    <text x="130" y="135" font-weight="700" fill="#A9B1D6">0</text>
+    <text x="10" y="135">*Legiana's Hunted (captured):</text> 
+    <text x="130" y="135" font-weight="700" fill="#A9B1D6">32 (21)</text>
   
     <text x="10" y="165">* API keys leaked:</text> 
     <text x="125" y="165" font-weight="700" fill="#A9B1D6">1984</text>

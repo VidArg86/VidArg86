@@ -28,7 +28,7 @@
   
 
   <g font-family="Segoe UI, sans-serif" font-size="14" fill="#FFFFFF">
-    <text x="10" y="75">* Total Heigh:</text> 
+    <text x="10" y="75">* Total Height:</text> 
     <text x="100" y="75" font-weight="700" fill="#A9B1D6">Two Dwarves on a trench coat</text>
     
     <text x="10" y="105">* F1 GPs raced:</text> 
@@ -41,7 +41,7 @@
     <text x="125" y="165" font-weight="700" fill="#A9B1D6">1984</text>
     
     <text x="10" y="195">"Do you even code bro?":</text> 
-    <text x="173" y="195" font-weight="700" fill="#A981D6">Currently investigated by the ICPWABT about it</text>
+    <text x="173" y="195" font-weight="700" fill="#A981D6">Check my commit history (No)</text>
 
   </g>
 </svg>

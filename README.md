@@ -7,7 +7,7 @@ Spanish/English/Common
 ## About Me
 ![aboutMe](./aboutMe.svg)
 
-We hate Knife ears and Niflgaardians equally here
+We hate Knife ears and Nilfgaardians equally here
 ##
 :wq
 <!--

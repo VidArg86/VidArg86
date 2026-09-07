@@ -1,5 +1,12 @@
 # Nothing to see here
 
+![notTheDroids.png](notTheDroids.png)
+
+*Move along now*
+
+---
+
+:cq
 <!--
 **VidArg86/VidArg86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -8,9 +8,13 @@
 
 ### About me
 
+
 OS: Artix, when I'm in the mood of of fixing audio channels, windows de-bloated when I actually have to do stuff
+
 Favorite game series: Monster Hunter (From 3U to RS)
+
 Favorite book series: The witcher
+
 Hotel: Trivago
 
 ---

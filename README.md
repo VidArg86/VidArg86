@@ -9,7 +9,9 @@
 ### About me
 
 
-OS: Artix with KDE Plasma, when I'm in the mood of fixing PipeWire pipelines, or enjoy the privacy of having no working microphone (I still haven't figured that one out), windows de-bloated when I actually have to do stuff without leaving Kitty open as a background process
+OS: Artix with KDE Plasma, when I'm in the mood of fixing PipeWire pipelines, or enjoy the privacy of having no working microphone (I still haven't figured that one out), windows de-bloated when I actually have to do stuff
+
+sudo pacman -S willToLIve
 
 Favorite game series: Monster Hunter (From 3U to RS)
 

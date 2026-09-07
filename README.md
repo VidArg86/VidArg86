@@ -9,17 +9,19 @@
 ### About me
 
 
-OS: Artix with KDE Plasma, when I'm in the mood of fixing PipeWire pipelines, or enjoy the privacy of having no working microphone (I still haven't figured that one out), windows de-bloated when I actually have to do stuff
+- **OS:** Artix with KDE Plasma, when I'm in the mood of fixing PipeWire pipelines, or enjoy the privacy of having no working microphone (I still haven't figured that one out), windows de-bloated when I actually have to do stuff
 
-sudo pacman -S willToLIve
+```bash
+sudo pacman -S willToLive
+```
 
-Favorite game series: Monster Hunter (From 3U to RS)
+- **Favorite game series:** Monster Hunter (From 3U to RS)
 
-Favorite book series: The Witcher
+- **Favorite book series:*** The Witcher
 
-Languages: Spanish / English
+- **Languages:** Spanish / English
 
-Hotel: Trivago
+- **Hotel:** Trivago
 
 ---
 

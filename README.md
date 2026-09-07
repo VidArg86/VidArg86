@@ -17,7 +17,7 @@ sudo pacman -S willToLive
 
 - **Favorite game series:** Monster Hunter (From 3U to RS)
 
-- **Favorite book series:*** The Witcher
+- **Favorite book series:** The Witcher
 
 - **Languages:** Spanish / English
 

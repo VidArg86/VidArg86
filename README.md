@@ -12,6 +12,7 @@ OS: Artix, when I'm in the mood of of fixing audio channels, windows de-bloated 
 Favorite game series: Monster Hunter (From 3U to RS)
 Favorite book series: The witcher
 Hotel: Trivago
+
 ---
 
 :cq

@@ -9,7 +9,7 @@
 ### About me
 
 
-OS: Artix, when I'm in the mood of of fixing audio channels, windows de-bloated when I actually have to do stuff
+OS: Artix, when I'm in the mood of of fixing audio pipelines, or enjoy the privacy of no working microphone (I still haven't figured that one out), windows de-bloated when I actually have to do stuff
 
 Favorite game series: Monster Hunter (From 3U to RS)
 
